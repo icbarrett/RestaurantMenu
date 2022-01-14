@@ -9,7 +9,7 @@ public class Menu {
     private String categories;
     private HashMap<String, Arrays> menuItem;
     private Date lastUpdated;
-
+`
     public String getRESTAURANT() {
         return RESTAURANT;
     }
